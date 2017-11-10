@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EstimoV2</string>
+
+    <string name="hello_word">Hello word!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_addBeacon">Add Beacon</string>
 </resources>
